@@ -1,1 +1,1 @@
-# xxd [[pdf][./Lab08_MXXD.pdf]]
+# xxd [[program_description](./Lab08_MXXD.pdf)]
