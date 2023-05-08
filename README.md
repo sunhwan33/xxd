@@ -1,1 +1,1 @@
-# xxd [[pdf][./Lab08_MXXD.pdf]]
+# xxd [[pdf](./Lab08_MXXD.pdf)]
