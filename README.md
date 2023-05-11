@@ -1,6 +1,6 @@
 # MXXD Minimal Hexdump #
-### xxd is a Unix utility to convert a binary file to a text file, 
-### and revert the conversion for transmitting binary data via text channel 
+### xxd 
+* is a Unix utility to convert a binary file to a text file, and revert the conversion for transmitting binary data via text channel 
 
 ### mxxd is a xxd replicate with two primitive features
 * bin-to-text conversion: generate text representation of a given file
